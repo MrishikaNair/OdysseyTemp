@@ -1,0 +1,45 @@
+.nav{
+    background-color: rgb(0,0,0,0);
+    height: 20px;
+  }
+  #navbar{
+
+    position: absolute;
+    margin-right: 25px;
+    top: 10px;
+    right: 10px;
+    
+    }
+    #nav a {
+        float: right;
+        margin-right: 30px;
+        display:block;
+        color: #638D87;
+        
+        text-align: right;
+        width: 100px;
+        text-decoration: none;
+        font-size: 25px;
+        }
+      
+    .navbut:hover {
+    
+    color: #ffffff;
+    
+    }
+    #nav:active {
+    color: #8dc9c1;
+    }
+    .navbut{
+        font-family: 'Inter', sans-serif;
+        font-weight: 500;
+        color: #bd9028;
+        font-size: 20px;
+        height: 45px;
+        width:100px;
+        margin-left:20px;
+        margin-right:20px;
+        border-radius: 4px;
+        border-style: none;
+        background-color: rgb(0,0,0,0);
+      }
